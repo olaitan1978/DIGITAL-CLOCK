@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+#clocky{
+    font-size: 200px;
+    font-weight: 900px;
+    color: orange;
+    height: 200px;
+    width: auto;
+    background-color: orchid;
+    border-radius: 200px;
+    padding: 50px;
+}
